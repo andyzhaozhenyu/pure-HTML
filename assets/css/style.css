@@ -191,7 +191,8 @@ section {
     color: #39a6b2;
     font-size: 26px;
     line-height: 1.5;
-    flex: 2 85%;
+    flex: 2 80%;
+    margin-left: 10px;
 }
 
 .step-text p{
@@ -200,12 +201,14 @@ section {
 }
 
 .step-img {
-    flex: 1 15%;
+    flex: 1 10%;
 }
 
 .step-img img{
-    width: 80%;
+    width: 100%;
 }
+
+
 
 .trainers {
     width: 100%;
